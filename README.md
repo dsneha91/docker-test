@@ -1,5 +1,7 @@
 # docker-test
 
+Dockerized a simple Flask REST API to read a MySql database. 
+
 To install Docker:
   Mac installation
     https://store.docker.com/editions/community/docker-ce-desktop-mac
