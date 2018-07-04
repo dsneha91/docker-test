@@ -14,13 +14,13 @@ Join Docker Hub(this will allow to install public version of image)
 Once installed, run docker.
     
 To create and run the image on the terminal:
-  1. Git clone
+  1. Git clone:
       git clone https://github.com/dsneha91/docker-test.git
-  2. Go to the flask app
+  2. Go to the flask app:
       cd docker-test
   3. Docker-compose:
       docker-compose up
-  4. Check the browser
+  4. Check the browser to see the read result from the database.
       http://0.0.0.0:5000
       
       
